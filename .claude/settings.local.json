@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c:*)",
+      "Bash(python -u -c:*)",
+      "Bash(ren \"Gemini\" \"Gemini生成\")",
+      "Bash(ren \"GPT\" \"GPT生成\")",
+      "Bash(python:*)"
+    ]
+  }
+}
